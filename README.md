@@ -8,7 +8,7 @@ Python 기반의 AI 엔지니어링에 전문성을 두고, 대규모 데이터 
 <br>
 
 <a href="mailto:ezh737@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://www.notion.so/29bd25a9617380efbd8"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+<a href="https://www.notion.so/29bd25a9617380efbd83e2cf82411243"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 
 <br>
 
