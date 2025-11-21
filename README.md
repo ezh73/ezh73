@@ -5,9 +5,6 @@
 Python 기반의 AI 엔지니어링에 전문성을 두고, 대규모 데이터 분석 및 예측 모델링을 수행합니다.
 <br>
 서비스의 안정성과 효율을 고민하며 아이디어를 실제 가치로 만드는 과정을 즐깁니다.
-
-<br>
-
 <a href="mailto:ezh737@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://www.notion.so/29bd25a9617380efbd8"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 
